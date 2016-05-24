@@ -1,0 +1,12 @@
+drop table Erros cascade constraints;
+drop table Carrinho cascade constraints;
+drop table Cliente cascade constraints;
+drop table Encomendas cascade constraints;
+drop table Fornecedor cascade constraints;
+drop table ItemsVenda cascade constraints;
+drop table Produto cascade constraints;
+drop table TipoEstado cascade constraints;
+drop table TipoPagamento cascade constraints;
+drop table Venda cascade constraints;
+drop table Vendedor cascade constraints;
+commit;
